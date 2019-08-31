@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages- Sil Apostu
+## Sil Apostu's First CS193 Homework
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -17,6 +17,11 @@ Syntax highlighted code block
 
 - Bulleted
 - List
+# Things I love about CS193
+- It is student led
+- No homework or test in this course
+- If you do the work, it is very possible to get an A
+- It is a CS credit course that can go toward getting my BS in Computer Science
 
 1. Numbered
 2. List
