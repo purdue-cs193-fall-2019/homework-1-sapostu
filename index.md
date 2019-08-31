@@ -1,6 +1,6 @@
-## Sil Apostu's First CS193 Homework
+# Sil Apostu's First CS193 Homework
 
-# Things I love about CS193
+## Things I love about CS193
 - It is student led
 - No homework or test in this course
 - If you do the work, it is very possible to get an A
